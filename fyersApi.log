@@ -1,0 +1,2 @@
+{"level":"ERROR","location":"[patch_call:167] fyersModel","message":"Expecting value: line 1 column 1 (char 0)","timestamp":"2024-01-23 13:06:35,313+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[patch_call:167] fyersModel","message":"Expecting value: line 1 column 1 (char 0)","timestamp":"2024-01-23 13:17:36,642+0530","service":"FyersDataSocket"}

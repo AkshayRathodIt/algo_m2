@@ -1,0 +1,10 @@
+{
+    "APP_ID": "JB7H9N3X9D",
+    "APP_TYPE": "100",
+    "SECRET_KEY": "WKALTXYWQV",
+    "FY_ID": "XA58600",
+    "APP_ID_TYPE": "2",
+    "TOTP_KEY": "CVESDMWBNR63SIHUNTNYTTFDGDLGMZYN",
+    "PIN": "7879",
+    "REDIRECT_URI": "https://127.0.0.1/"
+}
